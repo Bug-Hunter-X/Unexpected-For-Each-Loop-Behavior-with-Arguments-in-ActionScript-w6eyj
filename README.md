@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in ActionScript related to the use of the for each loop with the arguments object.  The bug occurs when the arguments object is empty or contains unexpected data types. The solution provides a more robust approach to iterating through the arguments object.
